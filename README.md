@@ -152,7 +152,7 @@ following improvements:
 
 The citation network is derived from ten real academic papers on
 nanotechnology in sustainable agriculture.  The foundational study on
-Mo–nanoparticle seed treatments【185981669904535†L49-L56】 is cited by subsequent reviews and
+Mo–nanoparticle seed treatments is cited by subsequent reviews and
 experimental papers, culminating in a 2024 review on climate change
 mitigation【643682034050769†L230-L236】.  The metadata and dependency structure are stored
 in `src/data/research_data.py`.
