@@ -1,10 +1,10 @@
 # Topological Sort Research Project – Improved Edition
 
-This repository contains an enhanced version of the topological sort
+In this asisgnement we have implemented the topological sort
 research assignment originally provided by the user.  It models
 citation relationships between ten real academic papers on
 nanotechnology in sustainable agriculture and implements three
-topological sorting algorithms—Kahn’s algorithm, a depth‑first search
+topological sorting algorithms Kahn’s algorithm, a depth‑first search
 based sort, and a breadth‑first search (BFS) variant with level
 tracking.  In addition to the core functionality, this improved
 edition includes a clear reading schedule (from foundational to
