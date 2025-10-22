@@ -1,4 +1,4 @@
-# Topological Sort Research Project – Improved Edition
+# Topological Sort  Project
 
 In this asisgnement we have implemented the topological sort
 research assignment originally provided by the user.  It models
