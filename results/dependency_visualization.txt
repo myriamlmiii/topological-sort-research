@@ -1,0 +1,42 @@
+================================================================================
+DEPENDENCY VISUALIZATION - CITATION FLOW
+================================================================================
+
+HOW TOPOLOGICAL SORT FIGURED OUT THE READING ORDER:
+
+FOUNDATIONAL → INTERMEDIATE → ADVANCED RESEARCH
+
+ FOUNDATIONAL (Start Here):
+   • microbiome_study_2017: 2017 - Combined pre-seed treatment with microbi...
+
+ INTERMEDIATE (Builds on Foundational):
+   • climate_review_2024: 2024 - Needs: microbe_interactions_2024, bionano_fertilizers_2024
+   • microbe_interactions_2024: 2024 - Needs: innovations_review_2023, precision_ag_2023
+   • bionano_fertilizers_2024: 2024 - Needs: nanofertilizers_2022
+   • innovations_review_2023: 2023 - Needs: carrot_experiment_2021, nanofertilizers_2022
+   • precision_ag_2023: 2023 - Needs: crop_protection_2019
+   • carrot_experiment_2021: 2021 - Needs: sustainable_ag_2020
+   • nanofertilizers_2022: 2022 - Needs: microbiome_study_2017, sustainable_ag_2020
+   • sustainable_ag_2020: 2020 - Needs: crop_protection_2019
+   • crop_protection_2019: 2019 - Needs: microbiome_study_2017
+
+ ADVANCED (Integrates Multiple Works):
+
+ AUTOMATIC DEPENDENCY FLOW DIAGRAM:
+
+🟢 climate_review_2024: 2024 (Foundation) ← depends on: microbe_interactions_2024, bionano_fertilizers_2024
+    ├── microbe_interactions_2024: 2024 ← depends on: innovations_review_2023, precision_ag_2023
+    └── bionano_fertilizers_2024: 2024 ← depends on: nanofertilizers_2022
+        ├── innovations_review_2023: 2023 ← depends on: carrot_experiment_2021, nanofertilizers_2022
+        └── precision_ag_2023: 2023 ← depends on: crop_protection_2019
+            ├── carrot_experiment_2021: 2021 ← depends on: sustainable_ag_2020
+            └── nanofertilizers_2022: 2022 ← depends on: microbiome_study_2017, sustainable_ag_2020
+                └── sustainable_ag_2020: 2020 ← depends on: crop_protection_2019
+                    └── crop_protection_2019: 2019 ← depends on: microbiome_study_2017
+                        └── microbiome_study_2017: 2017 (no dependencies)
+
+ WHAT THIS SHOWS:
+• Topological sort AUTOMATICALLY discovered dependencies
+• Reading order respects ALL citation relationships
+• No paper appears before its prerequisites
+• Perfect learning path from basic → advanced

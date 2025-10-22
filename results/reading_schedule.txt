@@ -1,0 +1,67 @@
+====================================================================================================
+OPTIMAL RESEARCH PAPER READING SCHEDULE
+====================================================================================================
+Based on topological sorting of citation dependencies
+Total Papers: 10 | Citation Relationships: 13
+Research Period: 8 years (2017-2024)
+
+READING ORDER (Foundational to Advanced):
+
+ 1. Combined pre-seed treatment with microbial inoculants and Mo nanoparticles changes composition of root exudates and rhizosphere microbiome structure of chickpea (Cicer arietinum L.) plants
+    Authors: E. N. Shcherbakova, A. V. Shcherbakov, E. E. Andronov, L. N. Gonchar, S. M. Kalenskaya et al.
+    Year: 2017 | Publication: Symbiosis
+    DOI: https://doi.org/10.1007/s13199-016-0472-1
+
+ 2. Nano-enabled strategies to enhance crop nutrition and protection
+    Authors: Melanie Kah, Nathalie Tufenkji, Jason C. White
+    Year: 2019 | Publication: Nature Nanotechnology
+    DOI: https://doi.org/10.1038/s41565-019-0439-5
+    Prerequisites: Combined pre-seed treatment with microbial inoc...
+
+ 3. Nanoparticle-Based Sustainable Agriculture and Food Science: Recent Advances and Future Outlook
+    Authors: Deepti Mittal, Gurjeet Kaur, Parul Singh, Syed Azmal Ali
+    Year: 2020 | Publication: Frontiers in Nanotechnology
+    DOI: https://doi.org/10.3389/fnano.2020.579954
+    Prerequisites: Nano-enabled strategies to enhance crop nutriti...
+
+ 4. Nanofertilizers: A Smart and Sustainable Attribute to Modern Agriculture
+    Authors: Amilia Nongbet, Avdhesh Kumar Mishra, Yugal Kishore Mohanta, Saurov Mahanta, Manjit Kumar Ray et al.
+    Year: 2022 | Publication: Plants
+    DOI: https://doi.org/10.3390/plants11192587
+    Prerequisites: Combined pre-seed treatment with microbial inoc..., Nanoparticle-Based Sustainable Agriculture and ...
+
+ 5. Effects of different surface-coated nTiO₂ on full-grown carrot plants: impacts on root splitting, essential elements and Ti uptake
+    Authors: Yi Wang, Chaoyi Deng, Keni Cota-Ruiz, Wenjuan Tan, Andres Reyes et al.
+    Year: 2021 | Publication: Journal of Hazardous Materials
+    DOI: https://doi.org/10.1016/j.jhazmat.2020.123768
+    Prerequisites: Nanoparticle-Based Sustainable Agriculture and ...
+
+ 6. Unlocking the Potential of Nano-Enabled Precision Agriculture for Efficient and Sustainable Farming
+    Authors: Vinod Goyal, Dolly Rani, Rittika Rani, Shweta Mehrotra, Chaoyi Deng, Yi Wang
+    Year: 2023 | Publication: Plants
+    DOI: https://doi.org/10.3390/plants12213744
+    Prerequisites: Nano-enabled strategies to enhance crop nutriti...
+
+ 7. Revolutionizing agriculture: harnessing nano-innovations for sustainable farming and environmental preservation
+    Authors: Sajad Mohammadi, Farzaneh Jabbari, Gianluca Cidonio, Valiollah Babaeipour
+    Year: 2023 | Publication: Pesticide Biochemistry and Physiology
+    DOI: https://doi.org/10.1016/j.pestbp.2023.105722
+    Prerequisites: Effects of different surface-coated nTiO₂ on fu..., Nanofertilizers: A Smart and Sustainable Attrib...
+
+ 8. Next-generation fertilizers: the impact of bionanofertilizers on sustainable agriculture
+    Authors: Pankaj Kumar Arora, Shivam Tripathi, Rishabh Anand Omar, Prerna Chauhan, Vijay Kumar Sinhal et al.
+    Year: 2024 | Publication: Microbial Cell Factories
+    DOI: https://doi.org/10.1186/s12934-024-02528-5
+    Prerequisites: Nanofertilizers: A Smart and Sustainable Attrib...
+
+ 9. Nanoparticle applications in agriculture: overview and response of plant-associated microorganisms
+    Authors: Katiso Mgadi, Busiswa Ndaba, Ashira Roopnarain, Haripriya Rama, Rasheed Adeleke
+    Year: 2024 | Publication: Frontiers in Microbiology
+    DOI: https://doi.org/10.3389/fmicb.2024.1354440
+    Prerequisites: Revolutionizing agriculture: harnessing nano-in..., Unlocking the Potential of Nano-Enabled Precisi...
+
+10. Advances in Nanotechnology for Sustainable Agriculture: A Review of Climate Change Mitigation
+    Authors: Valentina Quintarelli, Monia Ben Hassine, Emanuele Radicetti, Silvia Rita Stazi, Enrica Allevato et al.
+    Year: 2024 | Publication: Sustainability
+    DOI: https://doi.org/10.3390/su16219280
+    Prerequisites: Nanoparticle applications in agriculture: overv..., Next-generation fertilizers: the impact of bion...

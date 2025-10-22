@@ -1,0 +1,4 @@
+Algorithm,Execution_Time_ms,Vertices,Edges,Theoretical_Operations_V+E,Actual_Operations,Space_Complexity,Efficiency_Ops_per_ms,Valid_Result
+Kahn,0.026200,10,13,23,23,10,877.86,YES
+DFS,0.015800,10,13,23,20,10,1265.83,YES
+BFS,0.021500,10,13,23,23,10,1069.77,YES

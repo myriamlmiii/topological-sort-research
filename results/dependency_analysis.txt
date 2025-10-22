@@ -1,0 +1,29 @@
+================================================================================
+RESEARCH DEPENDENCY LEVEL ANALYSIS
+================================================================================
+
+Papers grouped by dependency depth (Level 0 = foundational, no prerequisites):
+
+LEVEL 0 – Foundational (no prerequisites) (1 paper):
+  • 2017: Combined pre-seed treatment with microbial inoculants and Mo nanopa...
+
+LEVEL 1 – Depends on 1 previous paper (1 paper):
+  • 2019: Nano-enabled strategies to enhance crop nutrition and protection
+
+LEVEL 2 – Depends on 2 previous papers (1 paper):
+  • 2020: Nanoparticle-Based Sustainable Agriculture and Food Science: Recent...
+
+LEVEL 3 – Depends on 3 previous papers (2 papers):
+  • 2021: Effects of different surface-coated nTiO₂ on full-grown carrot plan...
+  • 2022: Nanofertilizers: A Smart and Sustainable Attribute to Modern Agricu...
+
+LEVEL 4 – Depends on 4 previous papers (2 papers):
+  • 2023: Revolutionizing agriculture: harnessing nano-innovations for sustai...
+  • 2023: Unlocking the Potential of Nano-Enabled Precision Agriculture for E...
+
+LEVEL 5 – Depends on 5 previous papers (2 papers):
+  • 2024: Nanoparticle applications in agriculture: overview and response of ...
+  • 2024: Next-generation fertilizers: the impact of bionanofertilizers on su...
+
+LEVEL 6 – Depends on 6 previous papers (1 paper):
+  • 2024: Advances in Nanotechnology for Sustainable Agriculture: A Review of...

@@ -1,0 +1,38 @@
+========================================================================================================================
+COMPREHENSIVE ALGORITHM COMPLEXITY AND PERFORMANCE ANALYSIS
+========================================================================================================================
+
+ALGORITHM       TIME (ms)    VERTICES   EDGES      OPS (V+E)    ACTUAL OPS   SPACE      EFFICIENCY  
+------------------------------------------------------------------------------------------------------------------------
+Kahn            0.026200     10         13         23           23           10         877.86      
+DFS             0.015800     10         13         23           20           10         1265.83     
+BFS             0.021500     10         13         23           23           10         1069.77     
+
+COMPLEXITY ANALYSIS SUMMARY:
+• Graph Size: V = 10, E = 13
+• Theoretical Time Complexity: O(V + E) = O(10 + 13) = O(23)
+• Space Complexity: O(V) = O(10) for all algorithms
+
+ALGORITHM CHARACTERISTICS:
+• KAHN'S ALGORITHM:
+  - Uses explicit queue and in-degree counting
+  - Excellent for cycle detection
+  - Natural for level-by-level processing
+  - Space: O(V) for queue and in-degree storage
+
+• DFS ALGORITHM:
+  - Uses recursion stack for traversal
+  - Natural for depth-first exploration
+  - Built-in cycle detection via recursion stack
+  - Space: O(V) for recursion stack and visited sets
+
+• BFS ALGORITHM:
+  - Uses level-based processing with queue
+  - Provides dependency level information
+  - Good for understanding research evolution
+  - Space: O(V) for queue and level tracking
+
+PERFORMANCE COMPARISON:
+• Fastest Algorithm: DFS (0.015800 ms)
+• Kahn: 0.026200 ms (1.66x slower than DFS)
+• BFS: 0.021500 ms (1.36x slower than DFS)

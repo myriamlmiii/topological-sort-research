@@ -1,0 +1,13 @@
+# Topological Sort Research Project
+# Design and Analysis of Algorithms
+# No external dependencies required - pure Python implementation
+
+# Project Information:
+# - Python 3.7+ compatible
+# - Standard library only
+# - Cross-platform (Windows, macOS, Linux)
+
+# External libraries used for optional visualisations
+networkx>=3.0          # Graph analysis and visualization
+matplotlib>=3.7.0      # Performance plotting
+numpy>=1.21.0          # Numerical computations

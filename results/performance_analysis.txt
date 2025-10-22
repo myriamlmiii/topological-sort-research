@@ -1,0 +1,6 @@
+PERFORMANCE SUMMARY (Execution times in microseconds)
+Algorithm | Avg Time (μs)
+----------------------------------------
+Kahn       | 26.20
+DFS        | 15.80
+BFS        | 21.50
