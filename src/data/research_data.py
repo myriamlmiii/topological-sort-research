@@ -230,11 +230,11 @@ if __name__ == "__main__":
     stats = get_research_stats()
     citation_analysis = get_citation_analysis()
     
-    print(f"\n📊 ADDITIONAL ANALYSIS:")
+    print(f"\n ADDITIONAL ANALYSIS:")
     print(f"Foundational Papers: {len(citation_analysis['foundational_papers'])}")
     print(f"Most Cited Paper: {citation_analysis['most_cited_papers'][0][1]} citations")
     print(f"Average Citations per Paper: {citation_analysis['average_citations']:.1f}")
     
-    print(f"\n🎯 MOST CITED PAPERS:")
+    print(f"\nMOST CITED PAPERS:")
     for paper, count, title in citation_analysis['most_cited_papers']:
         print(f"  {count} citations: {title}")
